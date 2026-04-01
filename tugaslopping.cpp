@@ -56,6 +56,7 @@ void tampilHasilFibonacci() {
 void menu() {
     cout << "\n=== MENU ===\n";
     cout << "1. Cek Bilangan priima\n";
+    cout << "2. Cek Bilangan Fibonacci\n";
 
 
 
