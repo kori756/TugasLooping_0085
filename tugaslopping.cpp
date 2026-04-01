@@ -37,4 +37,6 @@ void inputAngka()   {
     cin >> angka;
 }
 
+void tampilHasilPrima()
+
 
