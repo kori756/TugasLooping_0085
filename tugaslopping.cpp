@@ -54,6 +54,7 @@ void tampilHasilFibonacci() {
 }
 
 void menu() {
+    cout << "\n=== MENU ===\n";
 
 
 
