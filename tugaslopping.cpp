@@ -59,7 +59,7 @@ void menu() {
     cout << "2. Cek Bilangan Fibonacci\n";
     cout << "0. Keluar\n";
     cout << "Pilih menu: ";
-
+}
 
 
 
