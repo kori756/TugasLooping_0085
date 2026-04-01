@@ -61,5 +61,9 @@ void menu() {
     cout << "Pilih menu: ";
 }
 
+int main() {
+    while (true) {
+        menu();
+        cin >> pilihan;
 
 
