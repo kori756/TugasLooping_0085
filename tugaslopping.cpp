@@ -58,6 +58,8 @@ void menu() {
     cout << "1. Cek Bilangan priima\n";
     cout << "2. Cek Bilangan Fibonacci\n";
     cout << "0. Keluar\n";
+    cout << "Pilih menu: ";
+
 
 
 
